@@ -1,9 +1,6 @@
 /**
 
  Neon Solar System
- CPSC 583 - A3
- Name: Chad Holst
- UCID: 30105378
 
  Keyboard Input:
  Typing letter from 1/4 alphabet sets: add 1/4 planet types to neon solar system (all have orbits drawn and different shapes)
