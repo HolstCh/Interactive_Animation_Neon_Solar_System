@@ -1,6 +1,6 @@
 # Neon Solar System Animation
 
-![Neon Solar System](screenshot.png)
+![Neon Solar System](neon_solar_system.jpg)
 
 ## Description
 
