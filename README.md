@@ -42,9 +42,3 @@ The Neon Solar System Animation is a creative project built using the Processing
 
 Add screenshots or GIFs to showcase the visual aspect of your animation.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-Feel free to contribute, report issues, or suggest improvements!
-
